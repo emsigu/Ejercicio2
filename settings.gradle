@@ -1,0 +1,2 @@
+rootProject.name='E2_Navegando_Actividades'
+include ':app'

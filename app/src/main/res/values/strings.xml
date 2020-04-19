@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ejercicio2: Navegando Actividades</string>
+    <string name="TituloInicial">Los triple E</string>
+    <string name="BotonEladio">Eladio</string>
+    <string name="BotonEdwin">Edwin</string>
+    <string name="BotonEmmanuel">Emmanuel</string>
+    <string name="BotonConfiguracion">Configuracion</string>
+
+    <string name="tvEladio">Eladio Amparo</string>
+    <string name="tvMatricualEladio">AC-1445</string>
+
+    <string name="tvEdwin">Edwin Rafael Paulino Beriguete</string>
+    <string name="tvMatricualEdwin">100222537</string>
+
+    <string name="tvEmmanuel">Emmanuel Sierra Guzmán</string>
+    <string name="tvMatricualEmmanuel">CB-9010</string>
+</resources>
